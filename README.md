@@ -22,10 +22,10 @@ Este projeto em Python envia mensagens personalizadas via Whatsapp para contatos
    - Coluna `telefone` → text
 2. Preencher `.env` com suas chaves do Supabase e Z-API
 3. Instalar bibliotecas:
-   pip install -r requirements.txt
-   pip install requests
-   pip install python-dotenv
-   pip install supabase
+   - pip install -r requirements.txt
+   - pip install requests
+   - pip install python-dotenv
+   - pip install supabase
    
 4. Rodar o código:
    python main.py
