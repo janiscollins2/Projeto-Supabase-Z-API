@@ -1,0 +1,9 @@
+# para ignorar ambiente virtual e chaves pessoais
+.env
+
+# para ignorar cache do Python
+__pycache__/
+*.pyc
+
+# para que seja ignorado arquivos do VSCode
+.vscode/
